@@ -1,0 +1,1 @@
+docker swarm join --token <TOKEN GERADO NO SCRIPT MASTER.SH> 192.168.50.1:2377
